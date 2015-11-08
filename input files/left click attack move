@@ -1,0 +1,9 @@
+[GameEvents]  
+evtPlayerSelectClick=[Shift][Button 1]  
+evtPlayerAttackMoveClick=[Button 1]  
+evtPlayerMoveClick=[Button 2],[Shift][Button 2]
+
+
+[HUDEvents]   
+evtOnUIMouse1=[Shift][Button 1]  
+evntHudMoveableSelect=[Shift][Button 1],[Button 3]

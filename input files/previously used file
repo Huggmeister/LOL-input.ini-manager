@@ -1,0 +1,41 @@
+[GameEvents]
+evtSmartCastSpell1=[<Unbound>]
+evtSmartCastSpell2=[<Unbound>]
+evtSmartCastSpell3=[<Unbound>]
+evtEmoteTaunt=[Shift][w]
+evtEmoteLaugh=[Shift][r]
+evtEmoteDance=[Shift][e]
+evtEmoteJoke=[Shift][q]
+evtSelfCastSpell4=[<Unbound>]
+evtCastSpell3=[e]
+evtSelfCastSpell1=[<Unbound>]
+evtLevelSpell2=[Alt][w]
+evtSelfCastSpell3=[<Unbound>]
+evtLevelSpell3=[Alt][e]
+evtSmartCastSpell4=[<Unbound>]
+evtSelfCastSpell2=[<Unbound>]
+evtLevelSpell1=[Alt][q]
+evtLevelSpell4=[Alt][r]
+evtPlayerSelectClick=[Shift][Button 1]  
+evtPlayerAttackMoveClick=[Button 1]  
+evtPlayerMoveClick=[Button 2],[Shift][Button 2]
+
+
+[HUDEvents]   
+evtOnUIMouse1=[Shift][Button 1],[Button 1]
+evntHudMoveableSelect=[Shift][Button 1],[Button 1]
+
+[Quickbinds]
+evtUseItem4smart=1
+evtCastAvatarSpell2smart=1
+evtCastAvatarSpell1smart=1
+evtCastSpell1smart=1
+evtCastSpell4smart=1
+evtCastSpell3smart=1
+evtUseItem5smart=1
+evtUseVisionItemsmart=1
+evtCastSpell2smart=1
+evtUseItem6smart=1
+evtUseItem1smart=1
+evtUseItem3smart=1
+evtUseItem2smart=1
